@@ -6,5 +6,5 @@ The result of script are 3 photos 585x390pix each.
 
 **USAGE**  
 To split one photo 'python script.py nameOfFile.jpg'
-To split all photos in directory first 'chmod +x runscript' next './runscript'
+To split all photos in directory first 'chmod +x runscript' next './runscript'  
 
